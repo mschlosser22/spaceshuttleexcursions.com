@@ -51,7 +51,7 @@
 				</button>
 			</div>
 			<div class="hidden lg:flex lg:gap-x-12">
-				<a href="#about" class="text-sm font-semibold leading-6 text-white">About</a>
+				<a href="#" class="text-sm font-semibold leading-6 text-white">About</a>
 				<a href="#excursions" class="text-sm font-semibold leading-6 text-white">Excursions</a>
 				<a
 					href="https://fareharbor.com/embeds/book/cocoabeachsurfschool/?full-items=yes&flow=492386"
