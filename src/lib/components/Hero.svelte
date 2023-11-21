@@ -54,7 +54,7 @@
 				<a href="#" class="text-sm font-semibold leading-6 text-white">About</a>
 				<a href="#excursions" class="text-sm font-semibold leading-6 text-white">Excursions</a>
 				<a
-					href="https://fareharbor.com/embeds/book/cocoabeachsurfschool/?full-items=yes&flow=492386"
+					href="https://fareharbor.com/embeds/book/spaceshuttleexcursions/?full-items=yes"
 					class="text-sm font-semibold leading-6 text-white">Book</a
 				>
 				<a href="#" class="text-sm font-semibold leading-6 text-white">Contact</a>
@@ -110,7 +110,7 @@
 									>Excursions</a
 								>
 								<a
-									href="https://fareharbor.com/embeds/book/cocoabeachsurfschool/?full-items=yes&flow=492386"
+									href="https://fareharbor.com/embeds/book/spaceshuttleexcursions/?full-items=yes"
 									on:click={() => (showMobileMenu = false)}
 									class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-50"
 									>Book</a
@@ -189,7 +189,7 @@
 							</p>
 							<div class="mt-10 flex items-center gap-x-6">
 								<a
-									href="https://fareharbor.com/embeds/book/cocoabeachsurfschool/?full-items=yes&flow=492386"
+									href="https://fareharbor.com/embeds/book/spaceshuttleexcursions/?full-items=yes"
 									class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 									>Book Now</a
 								>
